@@ -8,7 +8,7 @@ int main()
     int start, middle, end;
     start = 0, middle = 0, end = arr.size() - 1;
 
-    while (middle != end)
+    while (middle <= end)
     {
         if (arr[middle] == 0)
         {
