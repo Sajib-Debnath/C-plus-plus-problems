@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    cout << "Enter the values of rows and cols : " << endl;
     int rows, cols;
     cin >> rows >> cols;
 
