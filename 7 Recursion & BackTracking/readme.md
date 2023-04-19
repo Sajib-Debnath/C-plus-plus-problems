@@ -1,6 +1,6 @@
 ﻿# C-plus-plus-problems(Recursion And Backtracking Problems)
 
-## i.Level-1 : 
+## i. Level-1 : 
    - ####  debnath.sjb@gmail.com
-## ii.Level-1 : 
+## ii.  Level-1 : 
    - #### https://www.linkedin.com/in/sajib-debnath/
