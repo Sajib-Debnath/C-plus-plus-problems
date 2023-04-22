@@ -5,6 +5,7 @@ using namespace std;
 class Animal
 {
     // states properties
+    // states properties
 private:
     int weight;
 
